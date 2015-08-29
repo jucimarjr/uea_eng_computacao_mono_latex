@@ -12,7 +12,6 @@ versão 0.1 - Lanier Santos
 ## Release notes
 
  - v0.2.1
-    - sub item 1
-    - sub item 2
+    -modularização dos arquivos e reagrupamento
+    -reestruturação do repositório
 
-        with indented text inside

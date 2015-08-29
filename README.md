@@ -9,3 +9,9 @@ versão 0.2.1 - Josiel Wirlino
 versão 0.2 - Emiliano Firmino
 versão 0.1 - Lanier Santos
 
+## Release notes
+
+ - v0.2.1
+    - modularização dos arquivos e reagrupamento
+    - reestruturação do repositório
+

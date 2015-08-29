@@ -48,4 +48,4 @@
 \contentsline {chapter}{\numberline {3}T\IeC {\'\i }tulo do Terceiro Cap\IeC {\'\i }tulo}{26}
 \contentsline {chapter}{\numberline {4}T\IeC {\'\i }tulo do Quarto Cap\IeC {\'\i }tulo}{31}
 \contentsline {section}{\numberline {4.1}Algoritmos}{31}
-\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{34}
+\contentsline {chapter}{Refer\^encias Bibliogr\'aficas}{33}

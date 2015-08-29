@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.28)  28 AUG 2015 20:44
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.28)  28 AUG 2015 22:23
 entering extended mode
 **TESE.TEX
-(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\TESE.TEX
+(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\trabalho\TESE.TEX
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,7 +13,9 @@ german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
 ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
-(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\dcctese.cls
+
+(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\trabalho\dcctese.c
+ls
 Document Class `dcctese' <09 Agosto 2010> Lanier Menezes dos Santos
 (C:\MikTex\tex\latex\base\report.cls
 Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
@@ -54,10 +56,9 @@ Package babel Info: Making " an active character on input line 145.
 ))
 \descriptionmargin=\dimen104
 
-(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\flot.sty)
+(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\trabalho\flot.sty)
 \c@program=\count89
-)
-(C:\MikTex\tex\latex\base\inputenc.sty
+) (C:\MikTex\tex\latex\base\inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
@@ -291,18 +292,16 @@ LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
 (C:\MikTex\tex\latex\ae\t1aer.fd
 File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
 )))
-(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\psfig.sty
+(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\trabalho\psfig.sty
 \@unused=\write3
 \ps@stream=\read1
 \p@intvaluex=\dimen105
 \p@intvaluey=\dimen106
-)
-(C:\MikTex\tex\latex\a4wide\a4wide.sty
+) (C:\MikTex\tex\latex\a4wide\a4wide.sty
 Package: a4wide 1994/08/30
  (C:\MikTex\tex\latex\ntgclass\a4.sty
 Package: a4 2004/04/15 v1.2g A4 based page layout
-))
-(C:\MikTex\tex\latex\comment\comment.sty
+)) (C:\MikTex\tex\latex\comment\comment.sty
 \CommentStream=\write4
  Excluding comment 'comment')
 (C:\MikTex\tex\latex\graphics\graphicx.sty
@@ -461,20 +460,19 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 \@float@every@codigo=\toks25
 \c@codigo=\count112
 
-(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\TESE.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-
+(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\trabalho\TESE.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
 (C:\MikTex\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count113
@@ -492,7 +490,7 @@ LaTeX Font Info:    ... okay on input line 43.
 ! Missing number, treated as zero.
 <to be read again> 
                    \relax 
-l.58 \maketitle
+l.59 \maketitle
                
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -501,7 +499,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Missing } inserted.
 <inserted text> 
                 }
-l.58 \maketitle
+l.59 \maketitle
                
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -510,7 +508,7 @@ Try to go on, since this might almost work.
 ! Missing { inserted.
 <inserted text> 
                 {
-l.58 \maketitle
+l.59 \maketitle
                
 I've put in what seems to be necessary to fix
 the current column of the current alignment.
@@ -520,22 +518,22 @@ Try to go on, since this might almost work.
 
 
 {C:/Users/Josiel/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Underfull \hbox (badness 2073) in paragraph at lines 78--82
+Underfull \hbox (badness 2073) in paragraph at lines 79--83
 \T1/aer/m/n/12 de Com-pu-ta-ção, da Es-cola Su-pe-rior de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--82
+Underfull \hbox (badness 10000) in paragraph at lines 79--83
 
  []
 
 
-Overfull \hbox (14.76375pt too wide) in paragraph at lines 76--83
+Overfull \hbox (14.76375pt too wide) in paragraph at lines 77--84
 []|  $[]$ 
  []
 
 ! Undefined control sequence.
-l.86 \normal
+l.87 \normal
              Manaus\\
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -546,7 +544,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <recently read> \normal 
                         
-l.87 \normal
+l.88 \normal
             2010
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -562,66 +560,69 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.128 \begin
+l.129 \begin
             {center}
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (2.61609pt too wide) in paragraph at lines 141--141
+Overfull \hbox (2.61609pt too wide) in paragraph at lines 142--142
 |  $[]$ 
  []
 
 
-Overfull \hbox (33.68758pt too wide) in paragraph at lines 141--142
+Overfull \hbox (33.68758pt too wide) in paragraph at lines 142--143
  [] 
  []
 
 [2]
-Underfull \hbox (badness 2073) in paragraph at lines 159--164
+Underfull \hbox (badness 2073) in paragraph at lines 160--165
 \T1/aer/m/n/12 de Com-pu-ta-ção, da Es-cola Su-pe-rior de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 159--164
+Underfull \hbox (badness 10000) in paragraph at lines 160--165
 
  []
 
 
-Overfull \hbox (14.76375pt too wide) in paragraph at lines 156--167
+Overfull \hbox (14.76375pt too wide) in paragraph at lines 157--168
 []|  $[]$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--169
+Underfull \hbox (badness 10000) in paragraph at lines 169--170
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--173
+Underfull \hbox (badness 10000) in paragraph at lines 171--174
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--177
+Underfull \hbox (badness 10000) in paragraph at lines 175--178
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--181
+Underfull \hbox (badness 10000) in paragraph at lines 179--182
 
  []
 
 [3]
-Overfull \hbox (14.76375pt too wide) in paragraph at lines 190--207
+Overfull \hbox (14.76375pt too wide) in paragraph at lines 191--208
 []|  $[]$ 
  []
 
 [4
 
-] (C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\RESUMO.TEX)
-[5] (C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\ABSTRACT.TEX
+]
+(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\trabalho\RESUMO.TE
+X) [5]
+(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\trabalho\ABSTRACT.
+TEX
 
 ! LaTeX Error: There's no line here to end.
 
@@ -635,35 +636,37 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-) [6] (C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\TESE.toc
+) [6]
+(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\trabalho\TESE.toc
 [7
 
 ])
 \tf@toc=\write6
- [8] (C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\TESE.lot)
+ [8]
+(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\trabalho\TESE.lot)
 \tf@lot=\write7
 [9
 
-] (C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\TESE.lof)
+]
+(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\trabalho\TESE.lof)
 \tf@lof=\write8
-
 [10
 
-] (C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\TESE.lop)
+]
+(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\trabalho\TESE.lop)
 \tf@lop=\write9
-
 [11
 
 ]
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 248.
+less on input line 249.
 
 
 Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 249.
+less on input line 250.
 
-(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\CAP1.TEX
+(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\trabalho\CAP1.TEX
 Cap\'{\i }tulo 1.
 ! Undefined control sequence.
 \b@COMER2010 ->\astroncite 
@@ -737,7 +740,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 266--266
  []
 
 [8] [9] [10] [11] [12] [13])
-(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\CAP2.TEX
+(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\trabalho\CAP2.TEX
 
 ! Package inputenc Error: Unicode char \u8:ï»¿ not set up for use with LaTeX.
 
@@ -853,7 +856,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 253--271
  []
 
 [23] [24])
-(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\CAP3.TEX [25]
+(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\trabalho\CAP3.TEX
+[25]
 Cap\'{\i }tulo 3.
 [26
 
@@ -1193,24 +1197,27 @@ l.56 \includegraphics[!htp]{Fig_6_8Holt.jpg}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Fig_6_8Holt.jpg, id=134, 237.13594pt x 189.70876pt>
-File: Fig_6_8Holt.jpg Graphic file (type jpg)
- <use Fig_6_8Holt.jpg>
-Package pdftex.def Info: Fig_6_8Holt.jpg used on input line 56.
+<../img/Fig_6_8Holt.jpg, id=134, 237.13594pt x 189.70876pt>
+File: ../img/Fig_6_8Holt.jpg Graphic file (type jpg)
+
+<use ../img/Fig_6_8Holt.jpg>
+Package pdftex.def Info: ../img/Fig_6_8Holt.jpg used on input line 56.
 (pdftex.def)             Requested size: 237.13535pt x 189.70828pt.
 
-<graficos-online-gratis.png, id=135, 542.025pt x 388.45125pt>
-File: graficos-online-gratis.png Graphic file (type png)
+<../img/graficos-online-gratis.png, id=135, 542.025pt x 388.45125pt>
+File: ../img/graficos-online-gratis.png Graphic file (type png)
 
-<use graficos-online-gratis.png>
-Package pdftex.def Info: graficos-online-gratis.png used on input line 66.
+<use ../img/graficos-online-gratis.png>
+Package pdftex.def Info: ../img/graficos-online-gratis.png used on input line 6
+6.
 (pdftex.def)             Requested size: 271.01183pt x 194.22514pt.
- [28 <C:/Users/Josiel/Documents/Git/uea_eng_computacao_mono_latex/Fig_6_8Holt.j
-pg>]
-<graf-fig1.png, id=139, 597.23125pt x 417.56pt>
-File: graf-fig1.png Graphic file (type png)
- <use graf-fig1.png>
-Package pdftex.def Info: graf-fig1.png used on input line 76.
+ [28 <C:/Users/Josiel/Documents/Git/uea_eng_computacao_mono_latex/img/Fig_6_8Ho
+lt.jpg>]
+<../img/graf-fig1.png, id=139, 597.23125pt x 417.56pt>
+File: ../img/graf-fig1.png Graphic file (type png)
+
+<use ../img/graf-fig1.png>
+Package pdftex.def Info: ../img/graf-fig1.png used on input line 76.
 (pdftex.def)             Requested size: 298.61488pt x 208.77948pt.
 
 
@@ -1220,26 +1227,27 @@ See the keyval package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.87 \includegraphics[!htp]{grafico.png}
-                                        
+l.87 \includegraphics[!htp]{grafico}
+                                    
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<grafico.png, id=140, 501.875pt x 311.1625pt>
-File: grafico.png Graphic file (type png)
- <use grafico.png>
-Package pdftex.def Info: grafico.png used on input line 87.
+<../img/grafico.png, id=140, 501.875pt x 311.1625pt>
+File: ../img/grafico.png Graphic file (type png)
+ <use ../img/grafico.png>
+Package pdftex.def Info: ../img/grafico.png used on input line 87.
 (pdftex.def)             Requested size: 501.87376pt x 311.16174pt.
 
 Overfull \hbox (41.15253pt too wide) in paragraph at lines 87--88
  [][] 
  []
 
-[29 <C:/Users/Josiel/Documents/Git/uea_eng_computacao_mono_latex/graficos-onlin
-e-gratis.png> <C:/Users/Josiel/Documents/Git/uea_eng_computacao_mono_latex/graf
--fig1.png>])
-(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\CAP4.TEX [30 <C:/U
-sers/Josiel/Documents/Git/uea_eng_computacao_mono_latex/grafico.png>]
+[29 <C:/Users/Josiel/Documents/Git/uea_eng_computacao_mono_latex/img/graficos-o
+nline-gratis.png> <C:/Users/Josiel/Documents/Git/uea_eng_computacao_mono_latex/
+img/graf-fig1.png>])
+(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\trabalho\CAP4.TEX
+[30 <C:/Users/Josiel/Documents/Git/uea_eng_computacao_mono_latex/img/grafico.pn
+g>]
 Cap\'{\i }tulo 4.
 
 ! LaTeX Error: Environment boxit undefined.
@@ -1258,6 +1266,31 @@ LaTeX Font Info:    Try loading font information for T1+aett on input line 16.
 (C:\MikTex\tex\latex\ae\t1aett.fd
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 )
+! FancyVerb Error:
+  No verbatim file source/arquivo.cpp
+.
+\FV@Error ... {FancyVerb Error:
+\space \space #1
+}
+                                                  
+l.16 ...rs=left,obeytabs=true]{source/arquivo.cpp}
+                                                  
+Your command was ignored. Type <return> to continue.
+
+! FancyVerb Error:
+  Empty verbatim environment
+.
+\FV@Error ... {FancyVerb Error:
+\space \space #1
+}
+                                                  
+l.16 ...rs=left,obeytabs=true]{source/arquivo.cpp}
+                                                  
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
 
 ! LaTeX Error: \begin{codigo} on input line 12 ended by \end{boxit}.
 
@@ -1287,6 +1320,28 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+! FancyVerb Error:
+  No verbatim file calculadora.erl
+.
+\FV@Error ... {FancyVerb Error:
+\space \space #1
+}
+                                                  
+l.31 ...mbers=left,obeytabs=true]{calculadora.erl}
+                                                  
+Your command was ignored. Type <return> to continue.
+
+! FancyVerb Error:
+  Empty verbatim environment
+.
+\FV@Error ... {FancyVerb Error:
+\space \space #1
+}
+                                                  
+l.31 ...mbers=left,obeytabs=true]{calculadora.erl}
+                                                  
+(That was another \errmessage.)
+
 
 ! LaTeX Error: \begin{codigo} on input line 27 ended by \end{boxit}.
 
@@ -1300,8 +1355,9 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[32]) (C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\TESE.bbl
-[33]
+)
+(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\trabalho\TESE.bbl
+[32]
 ! Undefined control sequence.
 <argument> \protect \astroncite 
                                 {Comer}{2010}
@@ -1319,29 +1375,30 @@ Underfull \hbox (badness 2393) in paragraph at lines 4--8
 el em:
  []
 
-) [34
+) [33
 
-] (C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\TESE.aux) ) 
+]
+(C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\trabalho\TESE.aux)
+ ) 
 Here is how much of TeX's memory you used:
  3839 strings out of 493921
- 47169 string characters out of 3154497
- 112704 words of memory out of 3000000
+ 47598 string characters out of 3154497
+ 111715 words of memory out of 3000000
  6965 multiletter control sequences out of 15000+200000
- 45660 words of font info for 86 fonts, out of 3000000 for 9000
+ 45135 words of font info for 84 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 31i,12n,43p,1104b,329s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\
-Users\Josiel\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm10
-00.pk><C:/MikTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/MikTex/fonts/typ
-e1/public/amsfonts/cm/cmbxti10.pfb><C:/MikTex/fonts/type1/public/amsfonts/cm/cm
-mi12.pfb><C:/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MikTex/fonts/t
-ype1/public/amsfonts/cm/cmr6.pfb><C:/MikTex/fonts/type1/public/amsfonts/cm/cmr8
-.pfb><C:/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/MikTex/fonts/type
-1/public/amsfonts/cm/cmsy8.pfb><C:/MikTex/fonts/type1/public/amsfonts/cm/cmti12
-.pfb><C:/MikTex/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on TESE.pdf (46 pages, 323511 bytes).
+ 31i,12n,43p,1104b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Josiel\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
+\ecrm1000.pk><C:/MikTex/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/MikTex/fo
+nts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/MikTex/fonts/type1/public/amsfont
+s/cm/cmmi12.pfb><C:/MikTex/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/MikTex/
+fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/MikTex/fonts/type1/public/amsfonts/
+cm/cmr8.pfb><C:/MikTex/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/MikTex/fon
+ts/type1/public/amsfonts/cm/cmsy8.pfb><C:/MikTex/fonts/type1/public/amsfonts/cm
+/cmti12.pfb>
+Output written on TESE.pdf (45 pages, 303447 bytes).
 PDF statistics:
- 254 PDF objects out of 1000 (max. 8388607)
+ 247 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

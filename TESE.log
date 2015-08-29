@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.28)  28 AUG 2015 20:08
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.8.28)  28 AUG 2015 20:44
 entering extended mode
 **TESE.TEX
 (C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\TESE.TEX
@@ -668,7 +668,7 @@ Cap\'{\i }tulo 1.
 ! Undefined control sequence.
 \b@COMER2010 ->\astroncite 
                            {Comer}{2010}
-l.6 ...foi livremente adaptado de \cite{COMER2010}
+l.5 ...foi livremente adaptado de \cite{COMER2010}
                                                    para ajudar os alunos a e...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -679,7 +679,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \b@COMER2010 ->\astroncite 
                            {Comer}{2010}
-l.6 ...foi livremente adaptado de \cite{COMER2010}
+l.5 ...foi livremente adaptado de \cite{COMER2010}
                                                    para ajudar os alunos a e...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -692,7 +692,7 @@ and I'll forget about whatever was undefined.
 
 ] [2] [3] [4]
 ! Misplaced alignment tab character &.
-l.154 		\indent	Vago &
+l.153 		\indent	Vago &
                        Coloquial
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -702,7 +702,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.158 		\indent	Vago &
+l.157 		\indent	Vago &
                        Coloquial
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -712,7 +712,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.162 		\indent	Vago &
+l.161 		\indent	Vago &
                        Coloquial
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -722,7 +722,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.166 		\indent	Vago &
+l.165 		\indent	Vago &
                        Coloquial
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -732,7 +732,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 [5] [6] [7]
-Underfull \hbox (badness 10000) in paragraph at lines 267--267
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
 []\T1/aer/bx/n/17.28 Foco nos Re-sul-ta-dos e não nas Pes-
  []
 
@@ -1324,7 +1324,7 @@ el em:
 ] (C:\Users\Josiel\Documents\Git\uea_eng_computacao_mono_latex\TESE.aux) ) 
 Here is how much of TeX's memory you used:
  3839 strings out of 493921
- 47185 string characters out of 3154497
+ 47169 string characters out of 3154497
  112704 words of memory out of 3000000
  6965 multiletter control sequences out of 15000+200000
  45660 words of font info for 86 fonts, out of 3000000 for 9000

@@ -9,3 +9,10 @@ versão 0.2.1 - Josiel Wirlino
 versão 0.2 - Emiliano Firmino
 versão 0.1 - Lanier Santos
 
+## Release notes
+
+ - v0.2.1
+    - sub item 1
+    - sub item 2
+
+        with indented text inside

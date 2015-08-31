@@ -34,6 +34,8 @@ Desenvolvedores:
         - Clicar em  em 004 [Ciência e tecnologia informáticas. Computação. Processamento de dados]. 
         - Na aba da direita copiar a numeração que mais se aproxima do assunto da monografia. Exemplo: 004.2.
 - Caso o seu tema não esteja enquadrado no 004, procurar a respectiva numeração ( e ver com o coordenador da disciplina se é um tema válido ).
+
+
 ### CIP
 - Site utilizável: http://davignon.qc.ca/cutter7.html
 - Pesquisar o último sobrenome na lista do site acima e ver o código que mais se aproxima do mesmo.
@@ -46,5 +48,5 @@ Desenvolvedores:
 - Exemplo: Joao Joel <b>S</b>ilva, logo S (maiúsculo) faz parte da composição do CIP. Ficando: S589.
 - A última letra do CIP é a primeira letra do título da sua monografia:
 - Exemplo, suponha que o título é:
-<S>istemas Inteligentes
+<b>S</b>istemas Inteligentes
 Logo a última letra para compor a sua CIP é s(minúsculo), ficando: <b>S586s<b>.

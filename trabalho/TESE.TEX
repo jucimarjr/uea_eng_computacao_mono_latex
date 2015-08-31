@@ -4,13 +4,9 @@
 \usepackage[T1]{fontenc}
 \usepackage{ae}
 \usepackage{psfig}
-%\usepackage{html}
-%\usepackage{portugues}
 \usepackage[brazil]{babel}
 \usepackage{a4wide}
 \usepackage{comment}
-%\usepackage{draftheader}
-%%\usepackage{epsf}
 \usepackage[pdftex]{graphicx,color}
 \usepackage{graphics}
 \usepackage{cite}
@@ -39,8 +35,6 @@
 
 \newcommand{\listofcodename}{Lista de C\'{o}digos}
 
-
-%\documentstyle[12pt,comnome,psfig]{dcctese}
 \begin{document}
 
 %\onehalfspacing
@@ -66,147 +60,24 @@
 \newpage
 
 % folha de Rosto----------------------------------------------------------------------------------------------------------------------------------------------
-
-\thispagestyle{empty}
-\begin{center}
-\textbf{\\[4em]LANIER MENEZES DOS SANTOS \\[5cm]}
-\textbf{DESENVOLVIMENTO DE PADR\~{A}O PARA MONOGRAFIAS DE ENGENHARIA DE COMPUTA\c{C}\~{A}O DA UEA\\[96pt]}
-
-\end{center}
-
-\hspace*{8cm}
-\begin{minipage}{8cm} 
-Trabalho de Conclus\~{a}o de Curso
-apresentado \`{a} banca avaliadora do Curso de Engenharia de Computa\c{c}\~{a}o, da 
-Escola Superior de Tecnologia, da Universidade do Estado do Amazonas, como
-pr\'e-requisito para obten\c{c}\~{a}o do t\'{\i}tulo de Engenheiro de Computa\c{c}\~{a}o.\\[50pt] 
-\end{minipage} 
-
-\begin{center}
-Orientador: Prof. M. Sc. Jucimar Maia da Silva J\'{u}nior\\[4ex]
-\normal Manaus\\
-\normal2010
-\end{center}
-
-
-\pagenumbering{roman}
+\input{folha_de_rosto.tex}
 \newpage
 
 % ficha Catalográfica------------------------------------------------------------------------------------------------------------------------------------------
+\pagenumbering{roman}
 
-\textit{\textbf{\\
-Universidade do Estado do Amazonas - UEA\\
-Escola Superior de Tecnologia - EST}}
-
-\textit{\\
-Reitor:\\ 
-\textbf{
-Carlos Eduardo de Souza Gon\c{c}alves}\\
-Vice-Reitor:\\ \textbf{Nome do Vice-Reitor}}
-\\
-\textit{
-Diretor da Escola Superior de Tecnologia:\\ 
-\textbf{M\'{a}rio Augusto Bessa de Figueir\^{e}do}}
-\\
-\textit{
-Coordenador do Curso de Engenharia de Computa\c{c}\~{a}o:\\
-\textbf{Antenor Ferreira Filho}}
-\\
-\textit{
-Coordenador da Disciplina Projeto Final:\\
-\textbf{Jucimar Maia da Silva J\'{u}nior}}
-\\[12pt]
-\textit{
-Banca Avaliadora composta por: \hfill Data da Defesa:  /  /2010.\\
-}
-\textit{ 
-\textbf{Prof. M.Sc. Jucimar Maia da Silva J\'{u}nior} (Orientador)\\
-\textbf{Prof. M.Sc. }\\% Escreva o nome dos professor da sua banca antes de '\\' (comando para quebra de linha)
-\textbf{Prof. M.Sc. }
-}
-
-\begin{center}\large \bf CIP - Cataloga\c{c}\~{a}o na Publica\c{c}\~{a}o\end{center}\\
-\begin{center}
-\fbox{
-\parbox{17cm}{
-\begin{minipage}{16cm} 
-L864a \hspace*{1cm} SANTOS, Lanier\\[12pt]
-\hspace*{2cm} \parbox{14cm}{
-\hspace*{0.5cm}Desenvolvimento de Padr\~{a}o para Monografias de Engenharia de Computa\c{c}\~{a}o da UEA / 
-Lanier Santos; [orientado por] Prof. MSc. Jucimar Maia da Silva J\'{u}nior - Manaus: UEA, 2010.\\
-\hspace*{0.5cm}240 p.: il.; 30cm\\
-\hspace*{0.5cm}Inclui Bibliografia\\
-\hspace*{0.5cm}Trabalho de Conclus\~{a}o de Curso (Gradua\c{c}\~{a}o em Engenharia de Computa\c{c}\~{a}o).
-Universidade do Estado do Amazonas, 2010.\\[12pt]
-\hspace*{8cm} CDU: \hrulefill}
-\end{minipage}}}
-\end{center}
-
+\input{ficha_catalografica.tex}
 \newpage
 
 % folha de aprovação----------------------------------------------------------------------------------------------------------------------------------
-
-\begin{center}
-\bf LANIER MENEZES DOS SANTOS\\[1.5 cm]
-\end{center}
-
-\begin{center}
-\bf DESENVOLVIMENTO DE PADR\~{A}O PARA MONOGRAFIAS DE ENGENHARIA DE COMPUTA\c{C}\~{A}O DA UEA\\[1.5cm]
-\end{center}
-
-\hspace*{8cm}
-\begin{minipage}{8cm} 
-
-Trabalho de Conclus\~{a}o de Curso apresentado \`{a} 
-banca avaliadora do Curso de Engenharia de Computa\c{c}\~{a}o, 
-da Escola Superior de Tecnologia, da Universidade do Estado do Amazonas, 
-como pr\'e-requisito para obten\c{c}\~{a}o do t\'{\i}tulo de 
-Engenheiro de Computa\c{c}\~{a}o.\\
-
-\large \bf Aprovado em:  /  /2010
-\end{minipage} 
-
-BANCA EXAMINADORA\\[12 pt]
-
-\noindent \hrulefill \hspace*{6cm} \\
-\noindent \textbf{Prof. Jucimar Maia da Silva J\'{u}nior, Mestre}\\
-\textit{UNIVERSIDADE DO ESTADO DO AMAZONAS}\\[0.5cm]
-
-\noindent \hrulefill \hspace*{6cm} \\
-\noindent \textbf{Prof. Nome do Professor, T\'{\i}tulo do Prof.}\\
-\textit{UNIVERSIDADE DO ESTADO DO AMAZONAS}\\[0.5cm]
-
-\noindent \hrulefill \hspace*{6cm} \\
-\noindent \textbf{Prof. Nome do Professor, T\'{\i}tulo do Prof.}\\
-\textit{UNIVERSIDADE DO ESTADO DO AMAZONAS}\\
-
+\input{folha_de_aprovacao.tex}
 \newpage
 
 % agradecimentos------------------------------------------------------------------------------------------------------------------------------------------------------
 
 % use o prefacio para agradecimentos, dedicatórias, ...
 % o arquivo prefacio deve começar com \chapter*{Pref\'{a}cio}
-
-
-\hspace*{8cm}
-\begin{minipage}{8cm}
-
-\vfill
-\vskip 20em
-\chapter*{Agradecimentos}  %{Prefácio}
-Ao finalizar este trabalho, ap\'{o}s dois anos e seis meses, tive o
-prazer de contar com a amizade e o incentivo de pessoas que
-tornaram mais suave este caminho. A elas, agrade\c{c}o:
-
-  Aos meus pais e meu irm\~{a}o, que ficaram privados de minha
-  companhia diversas vezes, mas sempre me incentivaram e
-  apoioaram.
-
-  \`{A} minha ``fam\'{\i}lia'', com quem pude dividir alegrias
-  e ang\'{u}stias durante o tempo em que ficamos em na faculade.
-\end {minipage}
-
-
+\input{agradecimento.tex}
 \newpage
 
 % resumo----------------------------------------------------------------------------------------------------------------------------------------------------------------------

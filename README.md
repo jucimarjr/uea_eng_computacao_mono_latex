@@ -1,7 +1,7 @@
 Modelo latex para monografias de engenharia da computação da UEA-EST versão 0.2.1
 ====
-Prof Orientador: Jucimar Jr
-Prof que ajudaram muito: Flávio Coelho e André Soares
+- Prof Orientador: Jucimar Jr
+- Prof que ajudaram muito: Flávio Coelho e André Soares
 
 Desenvolvedores:
 

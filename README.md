@@ -34,6 +34,7 @@ Desenvolvedores:
         - Clicar em  em 004 [Ciência e tecnologia informáticas. Computação. Processamento de dados]. 
         - Na aba da direita copiar a numeração que mais se aproxima do assunto da monografia. Exemplo: 004.2.
 - Caso o seu tema não esteja enquadrado no 004, procurar a respectiva numeração ( e ver com o coordenador da disciplina se é um tema válido ).
+
 ### CIP
 -  site : http://www.davignon.qc.ca/cutter7.html
 -  Pesquisar o último sobrenome na lista do site acima e ver o código que mais se aproxima. Exemplo:

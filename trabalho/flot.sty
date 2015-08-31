@@ -1,0 +1,7 @@
+\def\@flot#1{\@ifnextchar[{\@xflot{#1}}{\edef\@tempa{\noexpand\@xflot
+{#1}[\csname fps@#1\endcsname]}\@tempa}} \def\@xflot#1[#2]{
+\def\@captype{#1}} \def\end@flot{\vskip 7mm}
+\newenvironment{programf}{\begin{figure}}{\end{figure}}
+\newcommand{\captionf}[1]{\refstepcounter{program} \center{{\footnotesize\bf
+Programa \theprogram:} {\footnotesize #1}}
+\addcontentsline{lop}{program}{\numberline{\theprogram}{#1}}}

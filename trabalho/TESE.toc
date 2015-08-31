@@ -1,8 +1,8 @@
 \select@language {brazil}
 \select@language {brazil}
-\contentsline {chapter}{Lista de Tabelas}{viii}
-\contentsline {chapter}{Lista de Figuras}{ix}
-\contentsline {chapter}{Lista de C\'{o}digos}{ix}
+\contentsline {chapter}{Lista de Tabelas}{ix}
+\contentsline {chapter}{Lista de Figuras}{x}
+\contentsline {chapter}{Lista de C\'{o}digos}{x}
 \contentsline {chapter}{\numberline {1}Como Escrever Uma monografia}{1}
 \contentsline {section}{\numberline {1.1}Ao Candidato}{1}
 \contentsline {section}{\numberline {1.2}A Id\IeC {\'e}ia Geral}{2}

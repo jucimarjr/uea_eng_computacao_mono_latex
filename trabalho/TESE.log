@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.8.31)  31 AUG 2015 15:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2015.8.31)  31 AUG 2015 16:30
 entering extended mode
 **TESE.tex
 (TESE.tex
@@ -517,22 +517,858 @@ I've put in what seems to be necessary to fix
 the current column of the current alignment.
 Try to go on, since this might almost work.
 
-! I can't write on file `TESE.pdf'.
-Please type another file name for output
-! Emergency stop.
-<to be read again> 
-                   \endgroup \set@typeset@protect 
-l.60 \newpage
-             
-*** (job aborted, file error in nonstop mode)
+[0
 
- 
+
+{C:/Users/suporte/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+(folha_de_rosto.tex
+Underfull \hbox (badness 2073) in paragraph at lines 8--11
+\T1/aer/m/n/12 de Com-pu-ta-Á„o, da Es-cola Su-pe-rior de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--11
+
+ []
+
+! Undefined control sequence.
+l.14 	\normal
+              Manaus\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \normal 
+                        
+l.15 	\normal
+             2010
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+) [1] (ficha_catalografica.tex
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \begin
+           {center}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (2.61609pt too wide) in paragraph at lines 42--42
+|  $[]$ 
+ []
+
+
+Overfull \hbox (37.59956pt too wide) in paragraph at lines 42--43
+ [] 
+ []
+
+) [2] (folha_de_aprovacao.tex
+Underfull \hbox (badness 2073) in paragraph at lines 12--17
+\T1/aer/m/n/12 de Com-pu-ta-Á„o, da Es-cola Su-pe-rior de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--17
+
+ []
+
+
+Overfull \hbox (14.76375pt too wide) in paragraph at lines 9--20
+[]|  $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 23--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--30
+
+ []
+
+) (agradecimento.tex) [3] [4
+
+] (RESUMO.TEX) [5] (ABSTRACT.TEX
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \\[2cm]
+           
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) [6] (TESE.toc [7
+
+])
+\tf@toc=\write6
+ [8] (TESE.lot)
+\tf@lot=\write7
+ [9
+
+] (TESE.lof)
+\tf@lof=\write8
+ [10
+
+] (TESE.lop)
+\tf@lop=\write9
+ [11
+
+]
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 115.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 116.
+
+(CAP1.TEX
+Cap\'{\i }tulo 1.
+! Undefined control sequence.
+\b@COMER2010 ->\astroncite 
+                           {Comer}{2010}
+l.5 ...foi livremente adaptado de \cite{COMER2010}
+                                                   para ajudar os alunos a e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\b@COMER2010 ->\astroncite 
+                           {Comer}{2010}
+l.5 ...foi livremente adaptado de \cite{COMER2010}
+                                                   para ajudar os alunos a e...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1
+
+
+] [2] [3] [4]
+! Misplaced alignment tab character &.
+l.153 		\indent	Vago &
+                       Coloquial
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.157 		\indent	Vago &
+                       Coloquial
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.161 		\indent	Vago &
+                       Coloquial
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.165 		\indent	Vago &
+                       Coloquial
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[5] [6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 266--266
+[]\T1/aer/bx/n/17.28 Foco nos Re-sul-ta-dos e n„o nas Pes-
+ []
+
+[8] [9] [10] [11] [12] [13]) (CAP2.TEX
+
+! Package inputenc Error: Unicode char \u8:Ôªø not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 Ôªø
+       \chapter{Manual do Trabalho de Conclus√£o de Curso - TCC - I e II}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[14]
+Cap\'{\i }tulo 2.
+[15
+
+]
+! Undefined control sequence.
+l.42 		\intem
+              Coordenar o processo de substitui√ß√£o orientador/orientando
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[16] [17] [18] [19]
+
+LaTeX Warning: Command \^ invalid in math mode on input line 171.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 171.
+
+
+LaTeX Warning: Command \' invalid in math mode on input line 171.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 171.
+
+
+LaTeX Warning: Command \c invalid in math mode on input line 171.
+
+
+LaTeX Warning: Command \~ invalid in math mode on input line 171.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.172 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.172 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no Í in font cmr12!
+Missing character: There is no · in font cmr12!
+Missing character: There is no · in font cmr12!
+Missing character: There is no „ in font cmr12!
+Missing character: There is no Á in font cmr12!
+Missing character: There is no „ in font cmr12!
+
+Underfull \hbox (badness 10000) in paragraph at lines 170--172
+[]\T1/aer/m/n/12 Atender ‡ exi-gÍn-cia da frequÍn-cia mÌ-nima de
+ []
+
+
+Overfull \hbox (465.68788pt too wide) in paragraph at lines 170--172
+\T1/aer/m/n/12 75$[]\OML/cmm/m/it/12 Afrequnciadoalunoservalidadaapartirdoformu
+lriodeacompanhamentodereuniodeorientaoosquaisdevemserpreenchidosacadaacompanham
+ento; peloorientadorepeloaluno[]$ 
+ []
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.172 
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+[20]
+Underfull \hbox (badness 10000) in paragraph at lines 190--208
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--208
+
+ []
+
+[21] [22]
+Underfull \hbox (badness 10000) in paragraph at lines 253--271
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--271
+
+ []
+
+[23] [24]) (CAP3.TEX [25]
+Cap\'{\i }tulo 3.
+[26
+
+]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.16 ... whit side moviments & 6.02\stackrel{+}{-}
+                                                  5.22 & 7.01\stackrel{+}{-}...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \hskip -.5\arrayrulewidth \vrule...
+l.16 ...side moviments & 6.02\stackrel{+}{-}5.22 &
+                                                   7.01\stackrel{+}{-}6.84\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.16 ...side moviments & 6.02\stackrel{+}{-}5.22 &
+                                                   7.01\stackrel{+}{-}6.84\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.16 ...side moviments & 6.02\stackrel{+}{-}5.22 &
+                                                   7.01\stackrel{+}{-}6.84\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.16 ...2\stackrel{+}{-}5.22 & 7.01\stackrel{+}{-}
+                                                  6.84\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \hskip -.5\arrayrulewidth \vrule...
+l.17 \hline
+           
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.17 \hline
+           
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.17 \hline
+           
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.18 ...th indepth moviments & 6.29\stackrel{+}{-}
+                                                  4.99 & 12.22\stackrel{+}{-...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \hskip -.5\arrayrulewidth \vrule...
+l.18 ...epth moviments & 6.29\stackrel{+}{-}4.99 &
+                                                   12.22\stackrel{+}{-}11.33\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.18 ...epth moviments & 6.29\stackrel{+}{-}4.99 &
+                                                   12.22\stackrel{+}{-}11.33\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.18 ...epth moviments & 6.29\stackrel{+}{-}4.99 &
+                                                   12.22\stackrel{+}{-}11.33\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.18 ...\stackrel{+}{-}4.99 & 12.22\stackrel{+}{-}
+                                                  11.33\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \hskip -.5\arrayrulewidth \vrule...
+l.19 \hline
+           
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.19 \hline
+           
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.19 \hline
+           
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.20 ... with side moviments & 4.66\stackrel{+}{-}
+                                                  4.94 & 3.47\stackrel{+}{-}...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \hskip -.5\arrayrulewidth \vrule...
+l.20 ...side moviments & 4.66\stackrel{+}{-}4.94 &
+                                                   3.47\stackrel{+}{-}2.20\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.20 ...side moviments & 4.66\stackrel{+}{-}4.94 &
+                                                   3.47\stackrel{+}{-}2.20\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.20 ...side moviments & 4.66\stackrel{+}{-}4.94 &
+                                                   3.47\stackrel{+}{-}2.20\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.20 ...6\stackrel{+}{-}4.94 & 3.47\stackrel{+}{-}
+                                                  2.20\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \hskip -.5\arrayrulewidth \vrule...
+l.21 \hline
+           
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.21 \hline
+           
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.21 \hline
+           
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.22 ...th indepth moviments & 5.71\stackrel{+}{-}
+                                                  4.55 & 5.37\stackrel{+}{-}...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \hskip -.5\arrayrulewidth \vrule...
+l.22 ...epth moviments & 5.71\stackrel{+}{-}4.55 &
+                                                   5.37\stackrel{+}{-}3.28\\
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.22 ...epth moviments & 5.71\stackrel{+}{-}4.55 &
+                                                   5.37\stackrel{+}{-}3.28\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.22 ...epth moviments & 5.71\stackrel{+}{-}4.55 &
+                                                   5.37\stackrel{+}{-}3.28\\
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.22 ...1\stackrel{+}{-}4.55 & 5.37\stackrel{+}{-}
+                                                  3.28\\
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Extra }, or forgotten $.
+<template> \unskip \hfil }
+                          \hskip \tabcolsep \hskip -.5\arrayrulewidth \vrule...
+l.23 \hline
+           
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.23 \hline
+           
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.23 \hline
+           
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (27.41089pt too wide) in paragraph at lines 12--25
+[][] 
+ []
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.30 
+     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[27]
+
+! Package keyval Error: !htp undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.56 \includegraphics[!htp]{Fig_6_8Holt.jpg}
+                                            
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<../img/Fig_6_8Holt.jpg, id=134, 237.13594pt x 189.70876pt>
+File: ../img/Fig_6_8Holt.jpg Graphic file (type jpg)
+
+<use ../img/Fig_6_8Holt.jpg>
+Package pdftex.def Info: ../img/Fig_6_8Holt.jpg used on input line 56.
+(pdftex.def)             Requested size: 237.13535pt x 189.70828pt.
+
+<../img/graficos-online-gratis.png, id=135, 542.025pt x 388.45125pt>
+File: ../img/graficos-online-gratis.png Graphic file (type png)
+
+<use ../img/graficos-online-gratis.png>
+Package pdftex.def Info: ../img/graficos-online-gratis.png used on input line 6
+6.
+(pdftex.def)             Requested size: 271.01183pt x 194.22514pt.
+ [28 <../img/Fig_6_8Holt.jpg>]
+<../img/graf-fig1.png, id=139, 597.23125pt x 417.56pt>
+File: ../img/graf-fig1.png Graphic file (type png)
+
+<use ../img/graf-fig1.png>
+Package pdftex.def Info: ../img/graf-fig1.png used on input line 76.
+(pdftex.def)             Requested size: 298.61488pt x 208.77948pt.
+
+
+! Package keyval Error: !htp undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.87 \includegraphics[!htp]{grafico}
+                                    
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<../img/grafico.png, id=140, 501.875pt x 311.1625pt>
+File: ../img/grafico.png Graphic file (type png)
+ <use ../img/grafico.png>
+Package pdftex.def Info: ../img/grafico.png used on input line 87.
+(pdftex.def)             Requested size: 501.87376pt x 311.16174pt.
+
+Overfull \hbox (41.15253pt too wide) in paragraph at lines 87--88
+ [][] 
+ []
+
+[29 <../img/graficos-online-gratis.png> <../img/graf-fig1.png>]) (CAP4.TEX
+[30 <../img/grafico.png>]
+Cap\'{\i }tulo 4.
+
+! LaTeX Error: Environment boxit undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14       \begin{boxit}
+                          % coloca o c√≥digo dentro de um Box
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    Try loading font information for T1+aett on input line 16.
+("C:\Program Files\MiKTeX 2.9\tex\latex\ae\t1aett.fd"
+File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
+)
+! FancyVerb Error:
+  No verbatim file source/arquivo.cpp
+.
+\FV@Error ... {FancyVerb Error:
+\space \space #1
+}
+                                                  
+l.16 ...rs=left,obeytabs=true]{source/arquivo.cpp}
+                                                  
+Your command was ignored. Type <return> to continue.
+
+! FancyVerb Error:
+  Empty verbatim environment
+.
+\FV@Error ... {FancyVerb Error:
+\space \space #1
+}
+                                                  
+l.16 ...rs=left,obeytabs=true]{source/arquivo.cpp}
+                                                  
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+! LaTeX Error: \begin{codigo} on input line 12 ended by \end{boxit}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17    \end{boxit}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[31
+
+]
+
+! LaTeX Error: Environment boxit undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.29      \begin{boxit}
+                         % coloca o c√≥digo dentro de um Box
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! FancyVerb Error:
+  No verbatim file calculadora.erl
+.
+\FV@Error ... {FancyVerb Error:
+\space \space #1
+}
+                                                  
+l.31 ...mbers=left,obeytabs=true]{calculadora.erl}
+                                                  
+Your command was ignored. Type <return> to continue.
+
+! FancyVerb Error:
+  Empty verbatim environment
+.
+\FV@Error ... {FancyVerb Error:
+\space \space #1
+}
+                                                  
+l.31 ...mbers=left,obeytabs=true]{calculadora.erl}
+                                                  
+(That was another \errmessage.)
+
+
+! LaTeX Error: \begin{codigo} on input line 27 ended by \end{boxit}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32    \end{boxit}
+                   
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) (TESE.bbl [32]
+! Undefined control sequence.
+<argument> \protect \astroncite 
+                                {Comer}{2010}
+l.3 ...protect\astroncite{Comer}{2010}]{COMER2010}
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 4--8
+[]\T1/aer/m/n/12 Comer, D. (2010).  How to Write a Dis-ser-ta-tion. Dis-po-nÌ-v
+el em:
+ []
+
+) [33
+
+] (TESE.aux) ) 
 Here is how much of TeX's memory you used:
- 3767 strings out of 493673
- 46626 string characters out of 3143954
- 114428 words of memory out of 3000000
- 7047 multiletter control sequences out of 15000+200000
- 16837 words of font info for 33 fonts, out of 3000000 for 9000
+ 3951 strings out of 493673
+ 48835 string characters out of 3143954
+ 120514 words of memory out of 3000000
+ 7119 multiletter control sequences out of 15000+200000
+ 45135 words of font info for 84 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 30i,7n,43p,237b,233s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 30i,12n,43p,1104b,319s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\suporte\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknap
+pen\ec\dpi600\ecrm1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
+mbxti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.
+pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmti12.pfb>
+Output written on TESE.pdf (45 pages, 301541 bytes).
+PDF statistics:
+ 247 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+

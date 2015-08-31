@@ -64,17 +64,16 @@
 \newpage
 
 % ficha Catalográfica------------------------------------------------------------------------------------------------------------------------------------------
-\pagenumbering{roman}
 
+\pagenumbering{roman}
 \input{ficha_catalografica.tex}
 \newpage
 
 % folha de aprovação----------------------------------------------------------------------------------------------------------------------------------
 \input{folha_de_aprovacao.tex}
-\newpage
-
+\let\cleardoublepage\clearpage
+%\newpage
 % agradecimentos------------------------------------------------------------------------------------------------------------------------------------------------------
-
 % use o prefacio para agradecimentos, dedicatórias, ...
 % o arquivo prefacio deve começar com \chapter*{Pref\'{a}cio}
 \input{agradecimento.tex}
@@ -83,23 +82,19 @@
 % resumo----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 \begin{center} \LARGE \bf Resumo \end{center} 
-
 \vskip 4em
 \input{RESUMO.TEX}
-
 \newpage
 
 % abstract---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 \begin{center} \LARGE \bf Abstract \end{center}
-
 \vskip 4em
 \input{ABSTRACT.TEX}
 
 \newpage
 
 % sumário-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 \renewcommand{\contentsname}{Sum\'{a}rio}
 \tableofcontents
 \listoftables

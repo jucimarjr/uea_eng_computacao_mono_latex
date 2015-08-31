@@ -34,13 +34,17 @@ Desenvolvedores:
         - Clicar em  em 004 [Ciência e tecnologia informáticas. Computação. Processamento de dados]. 
         - Na aba da direita copiar a numeração que mais se aproxima do assunto da monografia. Exemplo: 004.2.
 - Caso o seu tema não esteja enquadrado no 004, procurar a respectiva numeração ( e ver com o coordenador da disciplina se é um tema válido ).
-
 ### CIP
--  site : http://www.davignon.qc.ca/cutter7.html
--  Pesquisar o último sobrenome na lista do site acima e ver o código que mais se aproxima. Exemplo:
-   Nome completo: Joao Joel Silva --> não tem Silva(último sobrenome), mas tem Silv->586]
-- A primeira letra do último sobrenome forma a primeira letra da CIP. Ex: Silva-> S(Maiúsculo)
-  A ultima letra da cip é formada pela primeira letra do título da monografia. 
-  Exemplo: TÍTULO: SISTEMA PARA SMART HOME UTILIZANDO SISTEMAS EMBARCADOS. Pirmeira letra-> s(minúsculo)
-  Ficando então: S586s.
-##### Outra opção é ir na biblioteca central para fazer a aquisição dos códigos.
+- Site utilizável: http://davignon.qc.ca/cutter7.html
+- Pesquisar o último sobrenome na lista do site acima e ver o código que mais se aproxima do mesmo.
+-Exemplo
+```html
+    Nome completo: Joao Joel Silva.
+    Não há "Silva" na listagem, porém, há "Silv", cujo o código é 586.
+```
+- A primeira letra do seu último sobrenome forma a primeira letra da CIP.
+- Exemplo: Joao Joel <b>S</b>ilva, logo S (maiúsculo) faz parte da composição do CIP. Ficando: S589.
+- A última letra do CIP é a primeira letra do título da sua monografia:
+- Exemplo, suponha que o título é:
+<S>istemas Inteligentes
+Logo a última letra para compor a sua CIP é s(minúsculo), ficando: <b>S586s<b>.

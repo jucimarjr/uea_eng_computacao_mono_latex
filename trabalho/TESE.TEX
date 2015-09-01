@@ -1,0 +1,159 @@
+\documentclass{dcctese}
+\usepackage[latin1,utf8]{inputenc}  
+
+\usepackage[brazil]{babel}   
+\usepackage[T1]{fontenc}   
+
+
+%\usepackage[portuguese]{babel}
+%\usepackage[utf8]{inputenc}
+%\usepackage[T1]{fontenc}
+
+
+%\usepackage{psfig}
+\usepackage{a4wide}
+\usepackage{comment}
+\usepackage[pdftex]{graphicx,color}
+\usepackage{graphicx}
+\usepackage{graphics}
+\usepackage{cite}
+\usepackage{longtable}
+\usepackage{float}
+\usepackage{fancyvrb}
+\usepackage{fancyhdr}
+\usepackage{setspace}
+\usepackage{amsmath}
+\usepackage{lscape}
+
+\graphicspath{{../img/}} %path da pasta que contem as imagens
+
+\renewcommand{\topfraction}{1}
+\renewcommand{\bottomfraction}{1}
+\renewcommand{\floatpagefraction}{1}
+\renewcommand{\textfraction}{0}
+%\renewcommand{\baselinestretch}{2}  
+\doublespacing %espaçamento duplo
+\sloppy
+
+\floatstyle{plain}  %%% tipos: plain, boxed, ruled
+\newfloat{codigo}{tbp}{lop}[section]
+\floatname{codigo}{C\'{o}digo}
+
+%%% nome para ser usado no sumário
+
+\newcommand{\listofcodename}{Lista de C\'{o}digos}
+
+\begin{document}
+
+%\onehalfspacing
+
+% folha de titulo / capa------------------------------------------------------------------------------------------------------------------------------------
+
+\thispagestyle{empty}
+
+
+
+\title{ \textbf{DESENVOLVIMENTO DE PADR\~{A}O PARA MONOGRAFIAS DE ENGENHARIA DE COMPUTA\c{C}\~{A}O DA UEA}}
+
+\author{ \bf UNIVERSIDADE DO ESTADO DO AMAZONAS - UEA\\[12pt] \bf ESCOLA SUPERIOR DE TECNOLOGIA \\[12pt] \bf ENGENHARIA DE COMPUTA\c{C}\~AO\\ [96pt] NOME DO ALUNO}
+
+%\author{ \bf UNIVERSIDADE DO ESTADO DO AMAZONAS - UEA \\[12pt] \bf ESCOLA SUPERIOR DE TECNOLOGIA \\[12pt] \bf ENGENHARIA DE COMPUTA\c{C}\~{A}O \\
+%	[96pt] \bf LANIER MENEZES DOS SANTOS}
+
+\maketitle
+
+\begin{center}
+\large Manaus\\
+\large 2010
+\end{center}
+
+\newpage
+
+% folha de Rosto----------------------------------------------------------------------------------------------------------------------------------------------
+\input{folha_de_rosto.tex}
+\newpage
+
+% ficha Catalográfica------------------------------------------------------------------------------------------------------------------------------------------
+
+\pagenumbering{roman}
+\input{ficha_catalografica.tex}
+\newpage
+
+% folha de aprovação----------------------------------------------------------------------------------------------------------------------------------
+\input{folha_de_aprovacao.tex}
+\let\cleardoublepage\clearpage
+%\newpage
+% agradecimentos------------------------------------------------------------------------------------------------------------------------------------------------------
+% use o prefacio para agradecimentos, dedicatórias, ...
+% o arquivo prefacio deve começar com \chapter*{Pref\'{a}cio}
+\input{agradecimento.tex}
+\newpage
+
+% resumo----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\begin{center} \LARGE \bf Resumo \end{center} 
+\vskip 4em
+\input{RESUMO.TEX}
+\newpage
+
+% abstract---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\begin{center} \LARGE \bf Abstract \end{center}
+\vskip 4em
+\input{ABSTRACT.TEX}
+
+\newpage
+
+% sumário-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+\renewcommand{\contentsname}{Sum\'{a}rio}
+\tableofcontents
+\listoftables
+\newpage
+
+\listoffigures
+\addcontentsline{toc}{chapter}{\listofcodename}
+\listof{codigo}{\listofcodename}  % Lista de Códigos
+
+\clearpage
+
+% inicio da definição dos cabeçalhos--------------------------------------------------------------------------------------------------------------------------------------------
+\pagestyle{fancy}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\renewcommand{\headrulewidth}{0.5pt}
+\newcommand{\rom}{\fontfamily{cmr}\fontseries{m}\fontsize{10}{12}\selectfont}
+\fancyhf{} \fancyhead[LE,RO]{\rom\thepage}
+\fancyhead[LO]{\rom\rightmark} \fancyhead[RE]{\rom\leftmark}
+\fancypagestyle{plain}{
+    \fancyhead{} % get rid of headers
+    \renewcommand{\headrulewidth}{0pt} % and the line
+ }
+% fim dos cabeçalhos------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+% inicio do texto---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+\pagenumbering{arabic}
+
+% os arquivos de cada capitulo devem iniciar com \chapter{Nome do Capitulo}
+% (o nome deve terminar com .tex)
+
+%% Introdução
+\input{CAP1.TEX}
+
+%% Título do Capitulo 2
+\input{CAP2.TEX}
+
+%% Título do Capitulo 3
+\input{CAP3.TEX}
+
+%% Título do Capitulo 4
+\input{CAP4.TEX}
+
+% incluir referencias
+\bibliography{tese}
+\bibliographystyle{apa}
+
+
+%\include{anexos}
+
+\end{document}

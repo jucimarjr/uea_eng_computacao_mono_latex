@@ -1,13 +1,20 @@
 \documentclass{dcctese}
+\usepackage[latin1,utf8]{inputenc}  
 
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage{ae}
-\usepackage{psfig}
-\usepackage[brazil]{babel}
+\usepackage[brazil]{babel}   
+\usepackage[T1]{fontenc}   
+
+
+%\usepackage[portuguese]{babel}
+%\usepackage[utf8]{inputenc}
+%\usepackage[T1]{fontenc}
+
+
+%\usepackage{psfig}
 \usepackage{a4wide}
 \usepackage{comment}
 \usepackage[pdftex]{graphicx,color}
+\usepackage{graphicx}
 \usepackage{graphics}
 \usepackage{cite}
 \usepackage{longtable}
@@ -17,7 +24,8 @@
 \usepackage{setspace}
 \usepackage{amsmath}
 \usepackage{lscape}
-\graphicspath{{../img/}}
+
+\graphicspath{{../img/}} %path da pasta que contem as imagens
 
 \renewcommand{\topfraction}{1}
 \renewcommand{\bottomfraction}{1}
@@ -47,8 +55,10 @@
 
 \title{ \textbf{DESENVOLVIMENTO DE PADR\~{A}O PARA MONOGRAFIAS DE ENGENHARIA DE COMPUTA\c{C}\~{A}O DA UEA}}
 
-\author{ \bf UNIVERSIDADE DO ESTADO DO AMAZONAS - UEA \\[12pt] \bf ESCOLA SUPERIOR DE TECNOLOGIA \\[12pt] \bf ENGENHARIA DE COMPUTA\c{C}\~{A}O \\
-	[96pt] \bf LANIER MENEZES DOS SANTOS}
+\author{ \bf UNIVERSIDADE DO ESTADO DO AMAZONAS - UEA\\[12pt] \bf ESCOLA SUPERIOR DE TECNOLOGIA \\[12pt] \bf ENGENHARIA DE COMPUTA\c{C}\~AO\\ [96pt] NOME DO ALUNO}
+
+%\author{ \bf UNIVERSIDADE DO ESTADO DO AMAZONAS - UEA \\[12pt] \bf ESCOLA SUPERIOR DE TECNOLOGIA \\[12pt] \bf ENGENHARIA DE COMPUTA\c{C}\~{A}O \\
+%	[96pt] \bf LANIER MENEZES DOS SANTOS}
 
 \maketitle
 
@@ -138,15 +148,6 @@
 
 %% Título do Capitulo 4
 \input{CAP4.TEX}
-
-%% Título do Capitulo 5
-%\input{CAP5.TEX}
-
-%% Título do Capitulo 6
-%\input{CAP6.TEX}
-
-%% Título do Capitulo 7
-%\input{CAP7.TEX}
 
 % incluir referencias
 \bibliography{tese}

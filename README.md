@@ -52,4 +52,24 @@ Desenvolvedores:
                 sem adicionar uma nova página.
     ```
     - removido package <i><b>ae</b></i> por estar obsoleto e adicionado package <i><b>lmodern</b></i>
-    - removido package <i><b>psfig</b></i> por estar obsoleto e adicionado package <i><b>graphicx</b></i>
+    - removido package <i><b>psfig</b></i> por estar obsoleto e adicionado package <i><b>graphicx</b></i
+
+
+#### Pacote TeX aconselhados
+- MikTex http://miktex.org/
+- TexLive https://www.tug.org/texlive/
+
+### Software para edição
+- Windows
+    - TeXMaker
+    - Notepad++
+    - Sublime
+- Linux
+    - Kyle
+    - Sublime
+
+### Erros que podem ocorrer
+
+- ! Package inputenc Error: Unicode char \u 8:\GenericEror{(inputec)}
+Devido a forma declarada no preâmbulo do arquivo TEX.tex e/ou devido a forma de encoding do arquivo.
+- ! Missing number, treated as zero. Encontrado mas não corrigido

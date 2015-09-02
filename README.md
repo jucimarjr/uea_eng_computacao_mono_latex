@@ -37,7 +37,7 @@ Desenvolvedores:
 	- A última letra do CIP é a primeira letra do título da sua monografia:
 	- Exemplo, suponha que o título é:
 	<b>S</b>istemas Inteligentes
-	Logo a última letra para compor a sua CIP é s(minúsculo), ficando: <b>S586s<b>.
+	Logo a última letra para compor a sua CIP é s(minúsculo), ficando: <b>S586s</b>.
 
 ## Release notes
 
@@ -52,7 +52,7 @@ Desenvolvedores:
                 sem adicionar uma nova página.
     ```
     - removido package <i><b>ae</b></i> por estar obsoleto e adicionado package <i><b>lmodern</b></i>
-    - removido package <i><b>psfig</b></i> por estar obsoleto e adicionado package <i><b>graphicx</b></i
+    - removido package <i><b>psfig</b></i> por estar obsoleto e adicionado package <i><b>graphicx</b></i>
 
 
 #### Pacote TeX aconselhados

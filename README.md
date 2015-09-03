@@ -53,6 +53,8 @@ Desenvolvedores:
     ```
     - removido package <i><b>ae</b></i> por estar obsoleto e adicionado package <i><b>lmodern</b></i>
     - removido package <i><b>psfig</b></i> por estar obsoleto e adicionado package <i><b>graphicx</b></i>
+    - generalizado os parâmetros do tcc (locais onde colocar os nomes de professores, autor, CIP entre outros)
+    - modificado folha de aprovação. Acrescestando ["..obtenção do título de Bacharel em Engenharia de Computação.."] ao invés de ["..obtenção do título de Engenheiro de Computação.."]
 
 
 #### Pacote TeX aconselhados
@@ -61,11 +63,11 @@ Desenvolvedores:
 
 ### Software para edição
 - Windows
-    - TeXMaker
+    - TeXnicCenter (preferencialmente)
     - Notepad++
     - Sublime
 - Linux
-    - Kyle
+    - Kile(preferencialmente)
     - Sublime
 
 ### Erros que podem ocorrer

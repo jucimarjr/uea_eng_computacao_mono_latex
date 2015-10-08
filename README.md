@@ -25,7 +25,8 @@ Desenvolvedores:
 
 ### CIP
 - Cataloging in Publication
-	- Site utilizável: http://davignon.qc.ca/cutter7.html
+	- Site utilizável: http://davignon.qc.ca/cutter7.html (fora do ar)
+	- Site alternativo http://203.241.185.12/asd/board/Author/upfile/qrst.htm
 	- Pesquisar o último sobrenome na lista do site acima e ver o código que mais se aproxima do mesmo.
 	-Exemplo
 	```html

@@ -15,15 +15,16 @@
 \usepackage{setspace}
 \usepackage{amsmath}
 \usepackage{lscape}
+%\usepackage{stackrel}
 
-\graphicspath{{../img/}} %path da pasta que contem as imagens
+\graphicspath{{img/}} %path da pasta que contem as imagens
 
 \renewcommand{\topfraction}{1}
 \renewcommand{\bottomfraction}{1}
 \renewcommand{\floatpagefraction}{1}
 \renewcommand{\textfraction}{1}
 %\renewcommand{\baselinestretch}{2}  
-\doublespacing %espa\c{c}amento duplo
+\doublespacing %espaçamento duplo
 
 \sloppy
 
@@ -31,7 +32,7 @@
 \newfloat{codigo}{tbp}{lop}[section]
 \floatname{codigo}{C\'{o}digo}
 
-%%% nome para ser usado no sum\'{a}rio
+%%% nome para ser usado no sumário
 
 \newcommand{\listofcodename}{Lista de C\'{o}digos}
 
@@ -52,7 +53,7 @@
 %\author{ \bf UNIVERSIDADE DO ESTADO DO AMAZONAS - UEA \\[12pt] \bf ESCOLA SUPERIOR DE TECNOLOGIA \\[12pt] \bf ENGENHARIA DE COMPUTA\c{C}\~{A}O \\
 %	[96pt] \bf LANIER MENEZES DOS SANTOS}
 
-\maketitle
+ \maketitle
 
 \begin{center}
 \large Manaus\\
@@ -65,19 +66,19 @@
 \input{folha_de_rosto.tex}
 \newpage
 
-% ficha Catalogr\'{a}fica------------------------------------------------------------------------------------------------------------------------------------------
+% ficha Catalográfica------------------------------------------------------------------------------------------------------------------------------------------
 
 \pagenumbering{roman}
 \input{ficha_catalografica.tex}
 \newpage
 
-% folha de aprova\c{c}\~{a}o----------------------------------------------------------------------------------------------------------------------------------
+% folha de aprovação----------------------------------------------------------------------------------------------------------------------------------
 \input{folha_de_aprovacao.tex}
 \let\cleardoublepage\clearpage
 %\newpage
 % agradecimentos------------------------------------------------------------------------------------------------------------------------------------------------------
-% use o prefacio para agradecimentos, dedicat\'{o}rias, ...
-% o arquivo prefacio deve come\c{c}ar com \chapter*{Pref\'{a}cio}
+% use o prefacio para agradecimentos, dedicatórias, ...
+% o arquivo prefacio deve começar com \chapter*{Pref\'{a}cio}
 \input{agradecimento.tex}
 \newpage
 
@@ -96,7 +97,7 @@
 
 \newpage
 
-% sum\'{a}rio-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+% sumário-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 \renewcommand{\contentsname}{Sum\'{a}rio}
 \tableofcontents
 \listoftables
@@ -104,11 +105,11 @@
 
 \listoffigures
 \addcontentsline{toc}{chapter}{\listofcodename}
-\listof{codigo}{\listofcodename}  % Lista de C\'{o}digos
+\listof{codigo}{\listofcodename}  % Lista de Códigos
 
 \clearpage
 
-% inicio da defini\c{c}\~{a}o dos cabe\c{c}alhos--------------------------------------------------------------------------------------------------------------------------------------------
+% inicio da definição dos cabeçalhos--------------------------------------------------------------------------------------------------------------------------------------------
 \pagestyle{fancy}
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 \renewcommand{\sectionmark}[1]{\markright{#1}}
@@ -120,7 +121,7 @@
     \fancyhead{} % get rid of headers
     \renewcommand{\headrulewidth}{0pt} % and the line
  }
-% fim dos cabe\c{c}alhos------------------------------------------------------------------------------------------------------------------------------------------------------------
+% fim dos cabeçalhos------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 % inicio do texto---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -129,16 +130,16 @@
 % os arquivos de cada capitulo devem iniciar com \chapter{Nome do Capitulo}
 % (o nome deve terminar com .tex)
 
-%% Introdu\c{c}\~{a}o
+%% Introdução
 \input{CAP1.TEX}
 
-%% T\'{i}tulo do Capitulo 2
+%% Título do Capitulo 2
 \input{CAP2.TEX}
 
-%% T\'{i}tulo do Capitulo 3
+%% Título do Capitulo 3
 \input{CAP3.TEX}
 
-%% T\'{i}tulo do Capitulo 4
+%% Título do Capitulo 4
 \input{CAP4.TEX}
 
 % incluir referencias
